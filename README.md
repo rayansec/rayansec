@@ -10,7 +10,7 @@
 -  **🐍     python developer 🐍**
 - **☠️👹    bug bounty hunter ☠️👹** 
 - **👨‍💻       penetration tester** 
--  **📙 I am currently study Computer Science 📙**
+-  **📙 I am currently studying Computer Science 📙**
 - [Web Application, Mobile Application, Hacking Tools, web scraping automation]
 ##
 
